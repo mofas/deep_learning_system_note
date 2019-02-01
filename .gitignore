@@ -1,2 +1,6 @@
 .DS_store
 MNIST_data/
+.ipynb_checkpoints/
+
+*.zip
+*.wav
