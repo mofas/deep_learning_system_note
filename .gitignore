@@ -6,3 +6,7 @@ MNIST_data/
 *.wav
 
 M03 Adult Optimization.pdf
+
+*.ckpt.*
+*.h5
+checkpoint
