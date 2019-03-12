@@ -6,6 +6,7 @@ MNIST_data/
 *.wav
 
 M03 Adult Optimization.pdf
+M04 CNN.pdf
 
 *.ckpt.*
 *.h5
