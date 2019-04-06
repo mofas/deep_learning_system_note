@@ -11,3 +11,4 @@ M04 CNN.pdf
 *.ckpt.*
 *.h5
 checkpoint
+*.pkl
